@@ -23,3 +23,8 @@ img#logo {
 .uk-container {
     margin-top: 1rem;
 }
+
+images {
+    width: 335px;
+    height: 335px;
+}
