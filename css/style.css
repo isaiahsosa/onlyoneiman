@@ -1,0 +1,23 @@
+/*
+img#bg {
+  
+}
+*/
+
+.text-link {
+    font-weight: 500;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.text-link-dark {
+  font-weight: 500;
+  color: black;
+  letter-spacing: 2px;
+}
+
+img#logo {
+  margin-top: -29px;
+}
+
+}
